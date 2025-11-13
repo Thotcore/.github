@@ -1,66 +1,91 @@
-# 🌐 Thotcore  
-### AI-Native Software Engineering • Intelligent Agents • Cloud Automation • DevOps
+# Thotcore – Organización técnica interna
 
-Bienvenido al perfil oficial de **Thotcore**, una organización dedicada a crear software impulsado por IA, automatización inteligente y arquitecturas modernas en la nube.
+Este repositorio `.github` contiene la configuración centralizada de GitHub para **Thotcore**, incluyendo:
 
-Creamos soluciones donde la IA no solo asiste… sino que **coopera** como parte del equipo:
-- 🤖 Agentes para documentación  
-- 🧪 Agentes QA  
-- 🎨 Agentes Front-End (Angular, Tailwind)  
-- 🐍 Agentes Backend (Python, FastAPI, Middleware)  
-- ☁️ Infraestructura como código (Terraform + Azure)  
-- 🔗 Integraciones multicloud
+## 🚀 Objetivo del repositorio
+Centralizar la configuración y estándares organizacionales para:
 
----
+- GitHub Copilot Business / Enterprise  
+- Agentes personalizados (Documentation, QA, Angular, Python, Middleware)  
+- Policies y Guardrails  
+- GitHub Actions  
+- Reglas de seguridad  
+- Plantillas de Issues y Pull Requests  
+- Reglas de repositorio y automatizaciones
 
-## 🚀 Nuestra visión
-Construir plataformas, sitios y productos enteros usando **equipos de agentes inteligentes**, con humanos como arquitectos y diseñadores del sistema.
-
-Queremos que el desarrollo de software sea:
-- Más rápido  
-- Más consistente  
-- Más seguro  
-- Más accesible  
-
-Y que los equipos humanos se enfoquen en el diseño, la arquitectura y la visión.
+Este repo actúa como el **núcleo de automatización**, gobernanza e inteligencia para todos los proyectos de Thotcore.
 
 ---
 
-## 🧠 Tecnologías principales
-- **Azure Cloud** (Functions, App Services, AI Models, Entra ID)
-- **Angular • Tailwind**
-- **Python • FastAPI • DDD Middleware**
-- **GitHub Actions • GitHub Copilot Agents**
-- **Terraform / Bicep**
-- **ChatGPT Business + GitHub Enterprise**
+## 🧠 Contenido
+
+### 📦 1. Carpeta `profile/`
+Contiene el `README` público que aparece en el perfil de la organización.  
+→ *Aquí está tu presentación oficial de Thotcore.*
+
+### 🤖 2. Carpeta `copilot/`
+Configuraciones internas para:
+
+- Agentes inteligentes
+- Knowledge Bases (KB)
+- Policies de seguridad
+- Workflows de validación
+- LLM Orchestration
+
+### ⚙️ 3. Automatización (GitHub Actions)
+Workflows globales para:
+
+- Validación de agentes
+- Seguridad y análisis
+- CI/CD unificado para proyectos IA-Native
 
 ---
 
-## 🛠️ Ecosistema de Agentes Thotcore
-Actualmente estamos desarrollando un sistema de agentes personalizados:
+## 🧩 Estándares organizacionales
 
-- `doc-agent` → Documentación automatizada  
-- `qa-agent` → Revisión de código  
-- `angular-agent` → Front-end inteligente  
-- `python-agent` → Backend y APIs  
-- `middleware-agent` → Integración y arquitectura hexagonal  
-
-Todos trabajan bajo estándares internos y scaffolding propio.
+- Código con linters obligatorios  
+- Validación automatizada de agentes IA  
+- Uso de arquitectura IA-Native  
+- Reglas de commit y PRs
+- Documentación obligatoria generada por agentes  
 
 ---
 
-## 🤝 Trabajo Colaborativo
-Thotcore es una organización pensada para trabajo en:
-- Equipo familiar (tú + tu esposa)
-- Proyectos para empresas externas
-- Exportación de repositorios “listos para producción”
-- Implementación rápida de soluciones IA en la nube
+## 📚 Contribución
+
+Este repositorio solo debe modificarse para:
+
+- Crear / actualizar agentes IA  
+- Cambiar políticas de la organización  
+- Añadir nuevas plantillas o automatizaciones  
+- Actualizar el perfil público de Thotcore  
+- Incluir nuevas reglas globales  
 
 ---
 
-## 📬 Contacto
-Luis.guerrero@thotcore.com
+## 🔒 Seguridad
+Los agentes y automatizaciones aquí definidos cumplen con:
 
-## © 2025 Thotcore
-Software • AI Engineering • Automation
+- Reglas internas de Thotcore  
+- Políticas IA-Native  
+- Restricciones de ambiente  
+- Validación antes de cambios peligrosos  
+- `ask_before_uncertain = true`
+
+---
+
+## 🛰️ Visión
+
+Thotcore es un laboratorio de ingeniería IA-Native donde múltiples agentes trabajan como un **equipo digital coordinado**:
+
+- Documentación  
+- Arquitectura  
+- Front-End  
+- Back-End  
+- Middleware  
+- QA  
+- Integración  
+- DevOps / Terraform / Azure  
+
+Este repositorio es la base técnica para ese ecosistema.
 
